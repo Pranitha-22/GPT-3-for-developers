@@ -34,7 +34,7 @@
 ---
 
 ## 📦 Installation
-bash```
+```bash
 1. Clone the repository
 git clone https://github.com/your-username/gpt3-devtools.git
 cd gpt3-devtools
