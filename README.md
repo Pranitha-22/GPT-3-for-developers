@@ -34,7 +34,7 @@
 ---
 
 ## 📦 Installation
-
+bash```
 1. Clone the repository
 git clone https://github.com/your-username/gpt3-devtools.git
 cd gpt3-devtools
@@ -47,5 +47,5 @@ pip install -r requirements.txt
 
 # Optional
 4.Run the app (if using Streamlit)
-streamlit run app.py
+streamlit run app.py```
 
